@@ -1,0 +1,18 @@
+.background{
+    background-color: blueviolet;
+}
+.btn:hover{
+    background-color: darkgreen;
+}
+.card-title{
+    height:100px;
+}
+.card-text{
+    height:200px;
+}
+.card-source{
+    padding: 5px;
+    font-size: 12px;
+    text-align: center;
+
+}
